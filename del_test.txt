@@ -1,0 +1,6 @@
+git add del_test.txt
+git commit del_test -m "how to del or rec?"
+rm del_test.txt
+git status
+git rm del_test.txt -m "i del it now"
+git commit -m "submit del act"
